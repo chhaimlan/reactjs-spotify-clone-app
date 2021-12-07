@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+# The hosting website to public
+
+# https://spotify-clone-7e7f4.web.app
+
+# event of playlist is not yet to completed
+
+# just create for my study follow by youtube
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
